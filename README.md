@@ -1,8 +1,37 @@
-# React + Vite
+# Personal-Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the GitHub repository for my personal portfolio website. This website serves as a showcase of my skills, projects, and experiences. Feel free to explore and learn more about me and my work!
 
-Currently, two official plugins are available:
+## Live Demo
+Check out the live version of my portfolio website here : [(musical-naiad-92a67e.netlify.app/).](https://musical-naiad-92a67e.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- Email JS
+- Vite
+- Tailwind CSS
+
+## Features
+- **About/Introduction**: A brief introduction to who I am and what I do.
+- **Work Experience**: Summary of my work experiences.
+- **Skills**: List of my technical skills and proficiencies.
+- **Projects**:  Showcase of my projects with descriptions, links, and images.
+- **Contact**: Contact form to communicate with me directly or live.
+
+## How to Run Locally
+To run this website locally on your machine, follow these steps:
+
+1. Clone this repository: `git clone [repository URL]`
+2. Navigate to the project directory: `cd portfolio-website`
+3. Open `index.html` in your web browser.
+
+
+## Feedback
+If you have any feedback or suggestions for improvement, please feel free to [open an issue](../../issues) or [contact me](#contact).
+
+Thank you for visiting my portfolio! 🚀
+
+* Note: I 'm currently working on my portfolio to enhancce it's 3D features, Contact Section and much more and I will update this soon.
