@@ -3,7 +3,7 @@
 Welcome to the GitHub repository for my personal portfolio website. This website serves as a showcase of my skills, projects, and experiences. Feel free to explore and learn more about me and my work!
 
 ## Live Demo
-Check out the live version of my portfolio website here : [[(rahulgetportfolio.netlify.app).](rahulgetportfolio.netlify.app)](https://rahulgetportfolio.netlify.app/)
+Check out the live version of my portfolio website here : [https://rahulgetportfolio.netlify.app/](https://rahulgetportfolio.netlify.app/)
 
 ## Technologies Used
 - React.js
